@@ -16,7 +16,10 @@ public class DadosPessoais{
 		System.out.print("Digite sua altura: " );
 		double altura = sc.nextDouble();
 		System.out.println("altura: " + altura);
-		System.out.println("Nome: " + nome +  " - Idade: " + idade +  " "
-				+ "- Altura: "+  altura );
+		
+		System.out.println("Nome: " + nome +  " - Idade: " + idade +  " anos "
+				+ "- Altura: "+  altura + " Metros de Altura");
+			
+		
 }
 }
