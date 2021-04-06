@@ -18,7 +18,7 @@ public static void sinal() {
 		num = sc.nextInt();		
 		if (num > 0) System.out.println(num + " é positivo! " );
 		else if (num < 0) System.out.println(num + " é negativo! ");
-		else System.out.println(num +  "nulo! " );
+		else System.out.println(num + " nulo! " );
 		
 	}
 	
@@ -50,7 +50,7 @@ public static void crescente() {
 	}
 	
 
-	public static void div() {
+	public static void imc() {
 
 		int n1, n2;
 		int resp = 0;
