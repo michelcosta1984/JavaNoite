@@ -45,6 +45,7 @@ public static void fatorial() {
 		Scanner sc = new Scanner(System.in);
 				
 		System.out.print(" Numero : ");
+		
 		int num = sc.nextInt();		
 		double total = 1;		
 		for (int i=1 ; i<=num ; i++) {
